@@ -1,0 +1,6 @@
+{
+  "name": "SINKI Parfum",
+  "description": "Katalog dan Pemesanan Parfum SINKI Eau De Parfum",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
